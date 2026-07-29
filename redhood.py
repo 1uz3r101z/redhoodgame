@@ -21,7 +21,7 @@ time.sleep(2)
 type_text("Okay, " + name + ", let's get you started into this journey xoxox")
 time.sleep(0.05)
 print()
-print("---------------------------------------------------------------")
+print("xo"10)
 time.sleep(2)
 print()
 
